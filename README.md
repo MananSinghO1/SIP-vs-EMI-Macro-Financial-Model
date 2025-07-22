@@ -54,3 +54,4 @@ For inquiries, collaboration, or use-case discussion, feel free to reach out:
 
 **📧 Email**: mananmahi.mahi@gmail.com  
 **🔗 LinkedIn**: [linkedin.com/in/ms01](https://linkedin.com/in/ms01)
+![Dashboard Preview](dashboard-image.png)
